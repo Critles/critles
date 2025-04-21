@@ -21,8 +21,7 @@
 ---
 
 ## ✨ Highlight Terbaru
-### 1. [Blog : Day 1 Belajar C++](<Day 1 Belajar C++>)
-21 april 2024
+### 1. [Blog : 30 hari Belajar C++](<Belajar C++ selama 30 hari>)
 
 ### 2. [Proyek: Desain Website Portofolio](<link ke note>)
 Belajar desain futuristik dengan TailwindCSS dan React.
