@@ -5,8 +5,7 @@
 
 # 🏠 Home
 
-> Selamat datang di ruang digital pribadiku.
-> Tempat aku menyimpan ide, belajar, dan menata hidup.
+> 
 
 ---
 
@@ -22,8 +21,8 @@
 ---
 
 ## ✨ Highlight Terbaru
-### 1. [Catatan: Membaca *The Alchemist*](<link ke note>)
-_Refleksi singkat tentang takdir dan mimpi._
+### 1. [Blog : Day 1 Belajar C++](<Day 1 Belajar C++>)
+21 april 2024
 
 ### 2. [Proyek: Desain Website Portofolio](<link ke note>)
 Belajar desain futuristik dengan TailwindCSS dan React.
@@ -39,20 +38,34 @@ Belajar desain futuristik dengan TailwindCSS dan React.
 
 ---
 
-## ⚙️ Tools yang Sedang Dipakai
-- Theme: Minimal + Custom CSS
-- Plugins: 
-  - Dataview
-  - Advanced Tables
-  - Calendar
-  - Canvas (untuk visual mapping)
-
----
-
-## ✍️ Catatan Pribadi
 > “Don’t be afraid to dream. The universe conspires in helping you to achieve it.”
 > – *The Alchemist*
 
 ---
 
+# 🎵 Song of the Week
 
+> Update tiap minggu (kalau niat awoakwok)
+---
+
+## Week 16 — April 15–21, 2025  
+**"Sweater Weather" – The Neighbourhood**  
+> Suasana gloomy, cocok buat malam yang dingin dan overthinking.
+
+[▶️ YouTube](https://www.youtube.com/watch?v=GCdwKhTtNNw) | [🎧 Spotify](https://open.spotify.com/track/1pt4g6Px8gDfq3LviC3YY9)
+
+---
+
+## Week 15 — April 8–14, 2025  
+**"Happier Than Ever" – Billie Eilish**  
+> Dari pelan jadi teriak, kayak minggu kemarin.
+
+[▶️ YouTube](https://www.youtube.com/watch?v=5GJWxDKyk3A) | [🎧 Spotify](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8)
+
+---
+
+## Archive  
+- [[Song Archive 2025\|Song Archive 2025]]
+- 
+
+<div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countup/430297" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="Website aktif selama"></iframe></div>
