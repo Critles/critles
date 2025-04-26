@@ -21,8 +21,7 @@
 ---
 
 ## ✨ Highlight Terbaru
-### 1. [Blog : 30 hari Belajar C++](<Belajar C++ selama 30 hari>)
-
+### 1. [[Blog 30 hari Belajar C++\|Blog 30 hari Belajar C++]]
 ### 2. [Proyek: Desain Website Portofolio](<link ke note>)
 Belajar desain futuristik dengan TailwindCSS dan React.
 
