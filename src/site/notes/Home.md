@@ -20,19 +20,17 @@
 
 ---
 
-## ✨ Highlight Terbaru
+## ✨ Highlight
 ### 1. [[Blog 30 hari Belajar C++\|Blog 30 hari Belajar C++]]
-### 2. [Proyek: Desain Website Portofolio](<link ke note>)
-Belajar desain futuristik dengan TailwindCSS dan React.
-
+### 2. [[Test\|Test]]
 ---
 
-## 🗓️ Agenda & Goals Mingguan
+## 🗓️ Agenda & Goals
 
-- [ ] Baca 1 bab buku baru  
-- [ ] Tambah catatan tentang sistem pemerintahan  
-- [ ] Eksplorasi Obsidian plugin (Minimal Theme, Dataview, dll)  
-- [ ] Riset jurusan SAPPK & Teknik Geologi ITB  
+- [ ] Touching grass
+- [ ] 
+- [ ]  
+- [ ] 
 
 ---
 
@@ -48,8 +46,7 @@ Belajar desain futuristik dengan TailwindCSS dan React.
 
 ## Week 16 — April 15–21, 2025  
 **"Sweater Weather" – The Neighbourhood**  
-> Suasana gloomy, cocok buat malam yang dingin dan overthinking.
-
+> Absolute cinema coy
 [▶️ YouTube](https://www.youtube.com/watch?v=GCdwKhTtNNw) | [🎧 Spotify](https://open.spotify.com/track/1pt4g6Px8gDfq3LviC3YY9)
 
 ---
@@ -61,6 +58,13 @@ Belajar desain futuristik dengan TailwindCSS dan React.
 [▶️ YouTube](https://www.youtube.com/watch?v=5GJWxDKyk3A) | [🎧 Spotify](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8)
 
 ---
+# absen dulu adik²
+
+<div style="left: 0; width: 100%; height: 488px; position: relative;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfAe6VYoJt9O-BLkKxiRM2otdCQpTnjdTW14BTTeK3-paQpHQ/viewform?usp=send_form&embedded=true&usp=embed_googleplus" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+
+
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 77.2727%;"><iframe src="https://docs.google.com/spreadsheets/d/1ayvu1luDdiY7TIv9--15Nx741s7WXRjqXo7wQNpCfsE/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 
 ## Archive  
 - [[Song Archive 2025\|Song Archive 2025]]
