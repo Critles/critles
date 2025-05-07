@@ -58,13 +58,12 @@
 [▶️ YouTube](https://www.youtube.com/watch?v=5GJWxDKyk3A) | [🎧 Spotify](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8)
 
 ---
-# absen dulu adik²
 
-<div style="left: 0; width: 100%; height: 488px; position: relative;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfAe6VYoJt9O-BLkKxiRM2otdCQpTnjdTW14BTTeK3-paQpHQ/viewform?usp=send_form&embedded=true&usp=embed_googleplus" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
-
+<div id="player" style="display:none;"></div>
 
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 77.2727%;"><iframe src="https://docs.google.com/spreadsheets/d/1ayvu1luDdiY7TIv9--15Nx741s7WXRjqXo7wQNpCfsE/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+<audio src="Re _ Zero Emilia - Love Decoration - Dance (恋愛デコレート)  MMD.mp3" controls loop></audio>
+
 
 ## Archive  
 - [[Song Archive 2025\|Song Archive 2025]]
